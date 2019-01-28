@@ -1,0 +1,10 @@
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\bin\Debug\Calculator 9000.exe.config
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\bin\Debug\Calculator 9000.exe
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\bin\Debug\Calculator 9000.pdb
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator 9000.csprojAssemblyReference.cache
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator_9000.frmCalculator.resources
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator_9000.Properties.Resources.resources
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator 9000.csproj.GenerateResource.cache
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator 9000.csproj.CoreCompileInputs.cache
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator 9000.exe
+C:\Users\reboh\Google Drive\C#.NET\Projects Folder\Calculator 9000\Calculator 9000\obj\Debug\Calculator 9000.pdb
